@@ -1,3 +1,4 @@
 def line(deli)
-  if  "The line is empty"
+  if line == 0 
+    puts "The line is empty"
 end
