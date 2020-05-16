@@ -1,3 +1,3 @@
 def line(deli)
-  puts 
+  puts "The line is currently empty"
 end
