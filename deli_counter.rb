@@ -1,3 +1,3 @@
-def line(deli)
-  puts 
+def line
+  
 end
