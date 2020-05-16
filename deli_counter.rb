@@ -1,5 +1,5 @@
-def line
+def deli_counter(line)
   if nobody is in line 
-    puts ""Te line is empty"
+    puts "The line is empty"
   end  
 end
